@@ -11,3 +11,4 @@
 ## F-11: Update Team Details for Team Manager
 ## F-12: Add Players to the Team for Team Manager
 ## F-13: Remove Players from the Team for Team Manager
+## F-14: View Player Statistics for Team Manager
