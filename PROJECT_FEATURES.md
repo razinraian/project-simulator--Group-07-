@@ -22,3 +22,4 @@
 ## F-22: View Match Schedules for Player
 ## F-23: View Performance Statistics for Player
 ## F-24: Receive Match Notifications for Player
+## F-25: Update Profile for Player
