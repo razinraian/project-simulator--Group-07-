@@ -16,3 +16,4 @@
 ## F-16: View Match Schedules for Team Manager
 ## F-17: Receive Notifications for Team Manager
 ## F-18: Communicate with Players for Team Manager
+## F-19: Register and Log in for Player
