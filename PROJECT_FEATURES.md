@@ -15,3 +15,4 @@
 ## F-15: Register for Tournaments for Team Manager
 ## F-16: View Match Schedules for Team Manager
 ## F-17: Receive Notifications for Team Manager
+## F-18: Communicate with Players for Team Manager
