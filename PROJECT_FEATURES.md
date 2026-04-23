@@ -17,3 +17,4 @@
 ## F-17: Receive Notifications for Team Manager
 ## F-18: Communicate with Players for Team Manager
 ## F-19: Register and Log in for Player
+## F-20: Join a Team for Player
