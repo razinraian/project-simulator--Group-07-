@@ -27,3 +27,4 @@
 ## F-27: View Rankings for Player
 ## F-28: Upload Achievements for Player
 ## F-29: Browse Matches for Audience
+## F-30: View Live Scores for Audience
