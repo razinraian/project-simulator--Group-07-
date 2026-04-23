@@ -20,3 +20,4 @@
 ## F-20: Join a Team for Player
 ## F-21: Leave a Team for Player
 ## F-22: View Match Schedules for Player
+## F-23: View Performance Statistics for Player
