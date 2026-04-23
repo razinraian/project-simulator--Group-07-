@@ -35,3 +35,4 @@
 ## F-35: Rate Players for Audience
 ## F-36: Register and Log in for Audience
 ## F-37: Receive Notifications for Audience
+## F-38: View Leaderboard for Audience
