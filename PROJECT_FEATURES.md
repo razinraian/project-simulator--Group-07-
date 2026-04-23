@@ -5,3 +5,4 @@
 ## F-5: View Player Statistics for Admin
 ## F-6: Register for Tournaments for Admin
 ## F-7: View Match Schedules for Admin
+## F-8: Receive Notifications for Admin
