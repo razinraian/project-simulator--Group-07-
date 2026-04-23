@@ -8,3 +8,4 @@
 ## F-8: Receive Notifications for Admin
 ## F-9: Block or Ban Users for Admin
 ## F-10: Create a Team for Team Manager
+## F-11: Update Team Details for Team Manager
