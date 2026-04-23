@@ -10,3 +10,4 @@
 ## F-10: Create a Team for Team Manager
 ## F-11: Update Team Details for Team Manager
 ## F-12: Add Players to the Team for Team Manager
+## F-13: Remove Players from the Team for Team Manager
