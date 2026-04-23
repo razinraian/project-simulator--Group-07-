@@ -31,3 +31,4 @@
 ## F-31: View Match History for Audience
 ## F-32: Search for Teams for Audience
 ## F-33: Follow Teams for Audience
+## F-34: Comment on Matches for Audience
