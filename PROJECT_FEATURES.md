@@ -14,3 +14,4 @@
 ## F-14: View Player Statistics for Team Manager
 ## F-15: Register for Tournaments for Team Manager
 ## F-16: View Match Schedules for Team Manager
+## F-17: Receive Notifications for Team Manager
