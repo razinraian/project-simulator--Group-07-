@@ -33,3 +33,4 @@
 ## F-33: Follow Teams for Audience
 ## F-34: Comment on Matches for Audience
 ## F-35: Rate Players for Audience
+## F-36: Register and Log in for Audience
