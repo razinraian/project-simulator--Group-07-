@@ -24,3 +24,4 @@
 ## F-24: Receive Match Notifications for Player
 ## F-25: Update Profile for Player
 ## F-26: Communicate with Team Manager for Player
+## F-27: View Rankings for Player
