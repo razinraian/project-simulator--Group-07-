@@ -7,3 +7,4 @@
 ## F-7: View Match Schedules for Admin
 ## F-8: Receive Notifications for Admin
 ## F-9: Block or Ban Users for Admin
+## F-10: Create a Team for Team Manager
