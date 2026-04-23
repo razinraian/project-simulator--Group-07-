@@ -6,3 +6,4 @@
 ## F-6: Register for Tournaments for Admin
 ## F-7: View Match Schedules for Admin
 ## F-8: Receive Notifications for Admin
+## F-9: Block or Ban Users for Admin
