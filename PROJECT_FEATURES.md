@@ -30,3 +30,4 @@
 ## F-30: View Live Scores for Audience
 ## F-31: View Match History for Audience
 ## F-32: Search for Teams for Audience
+## F-33: Follow Teams for Audience
